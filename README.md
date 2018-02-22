@@ -8,13 +8,13 @@ A simple command line tool that encrypt and decrypt string easyly using AES algo
 
 
 ## Usage
-Encrypt
+#### Encrypt
 
 `
  ./crypto string 'cipher_key'
 `
 
-Decrypt
+#### Decrypt
 
 `
  ./crypto -d base64hash 'cipher_key' 
