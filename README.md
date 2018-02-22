@@ -17,8 +17,7 @@ Encrypt
 Decrypt
 
 `
- ./crypto -d base64hash 'cipher_key'
-
+ ./crypto -d base64hash 'cipher_key' 
 `
 
 ##options
